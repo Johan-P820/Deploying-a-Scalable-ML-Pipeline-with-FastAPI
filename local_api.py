@@ -32,7 +32,7 @@ data = {
 }
 
 # TODO: send a POST using the data above
-post_r = r+"/data"
+post_r = r+"data"
 posted_data = requests.post(post_r, json=data)
 
 # TODO: print the status code
