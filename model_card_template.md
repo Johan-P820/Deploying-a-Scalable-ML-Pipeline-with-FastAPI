@@ -61,7 +61,7 @@ Held-out test set from the same dataset (20% split).
 Data was processed using the same encoder and label binarizer used for training.
 
 ## Metrics
-Precision = 0.79
+Precision = 0.78
 Recall = 0.61
 F1 Score = 0.69
 
